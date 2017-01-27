@@ -24,8 +24,9 @@ In NER the goal is to identify the named entities that appear in textual segment
 classify in a predefined set of categories. Foe example, such an entity could be
 a person, an organization, a music-artist or an event. The following figure presents
 an example of a tweet which contains two named entities.
-Reference-style: 
-![NER task](https://github.com/ioannispartalas/GrenobleDataScienceMeetup/images/ner_fig.png "NER task")
+
+![NER task][logo]
+logo:https://github.com/ioannispartalas/GrenobleDataScienceMeetup/images/ner_fig.png "NER task"
 
 ## Data
 
