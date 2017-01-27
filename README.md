@@ -25,8 +25,7 @@ classify in a predefined set of categories. Foe example, such an entity could be
 a person, an organization, a music-artist or an event. The following figure presents
 an example of a tweet which contains two named entities.
 
-![NER task][logo]
-logo:https://github.com/ioannispartalas/GrenobleDataScienceMeetup/images/ner_fig.png "NER task"
+![Ner task](https://github.com/ioannispartalas/GrenobleDataScienceMeetup/images/ner_fig.png)
 
 ## Data
 
